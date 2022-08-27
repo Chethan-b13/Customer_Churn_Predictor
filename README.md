@@ -22,3 +22,7 @@ The overall scope to build an ML-powered application to forecast customer churn 
 3. **Data preparation, exploration, and preprocessing:** Raw historical data for solving the problem and building predictive models needs to be transformed into a format suitable for machine learning algorithms. This step can also improve overall results by increasing the quality of data.
 4. **Modeling and testing:** This covers the development and performance validation of customers churn prediction models with various machine learning algorithms.
 5. **Deployment and monitoring:** This is the last stage in applying machine learning for churn rate prediction. Here, the most suitable model is sent into production. It can be either integrated into existing software, or become the core of a newly built application.
+
+## Demo
+
+![](app.gif)
